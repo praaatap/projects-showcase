@@ -3,7 +3,7 @@
     "id": "01",
     "title": "GoogleDrive Git Clone",
     "subtitle": "Google Drive based Git repository clone tool using Google Apps Script.",
-    "image": "https://private-user-images.githubusercontent.com/98013953/493744023-7ab2c716-c0e0-45d9-b9e6-18fd9a56c46f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjIwMDgxMTUsIm5iZiI6MTc2MjAwNzgxNSwicGF0aCI6Ii85ODAxMzk1My80OTM3NDQwMjMtN2FiMmM3MTYtYzBlMC00NWQ5LWI5ZTYtMThmZDlhNTZjNDZmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMDElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTAxVDE0MzY1NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg1NjI5MWVlYjExM2YwY2E0OGQ1OWI5ZDc2MTRlNzFhZWE4ODBmMjcyMjg1ZmE5NTRjZTlhYTk3MjhiODI0Y2MmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Boj4RMxgcHwLejGO2FAswTaIpu1FC1q4AE68fthscMM",
+    "image": "/project/gdit.png",
     "tech": [
       "Node.js",
       "Google Drive API",
